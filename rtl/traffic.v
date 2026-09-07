@@ -1,4 +1,4 @@
-module rgy(
+module traffic(
 output reg [2:0] light,
 input clk );
 
